@@ -53,4 +53,4 @@ Thumbs.db
 Web_Scraping/Images/
 
 #env variable
-*.env
+.env
