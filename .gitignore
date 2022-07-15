@@ -51,3 +51,6 @@ Thumbs.db
 
 #Image folder
 Web_Scraping/Images/
+
+#env variable
+*.env
